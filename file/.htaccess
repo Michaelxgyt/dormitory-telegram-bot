@@ -1,0 +1,3 @@
+AddHandler python-program .py
+PythonHandler mod_python.publisher
+PythonDebug On
